@@ -13,4 +13,6 @@ print(cars_list[0])
 print(cars_list[1])
 print(cars_list[2])
 print(cars_list[3])
-print(cars_list[4])
+# print(cars_list[4])
+
+print("Car at index 2:", cars_list[2])
