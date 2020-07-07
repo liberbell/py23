@@ -6,3 +6,6 @@ print(list_bool)
 
 mixed_list = ["Nissan astra", 2, 4.5, False]
 print(mixed_list)
+
+cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
+print(cars_list)
