@@ -10,3 +10,7 @@ print(mixed_list)
 cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
 print(cars_list)
 print(cars_list[0])
+print(cars_list[1])
+print(cars_list[2])
+print(cars_list[3])
+print(cars_list[4])
