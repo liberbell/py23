@@ -7,3 +7,6 @@ print(cars_list)
 # cars_list.append("Suzuki Vectora", "Nissan Pathfinder")
 print(cars_list)
 print(len(cars_list))
+
+cars_list.insert(6, "Nissan Pathfinder")
+print(cars_list)
