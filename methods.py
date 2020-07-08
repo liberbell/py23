@@ -10,3 +10,6 @@ print(len(cars_list))
 
 cars_list.insert(6, "Nissan Pathfinder")
 print(cars_list)
+
+cars_list.insert(5, "Rover Discovery")
+print(cars_list)
