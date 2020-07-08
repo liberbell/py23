@@ -13,3 +13,6 @@ print(cars_list)
 
 cars_list.insert(5, "Rover Discovery")
 print(cars_list)
+
+cars_list.extend("Suzuki Alto", "Daihatsu Coppen")
+print(cars_list)
