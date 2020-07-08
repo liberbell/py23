@@ -24,3 +24,6 @@ print(cars_list[-3])
 # print(cars_list[-5])
 
 print(len(cars_list))
+
+cars_list[3] = "Nissan Safari"
+print(cars_list)
