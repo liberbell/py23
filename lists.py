@@ -23,3 +23,4 @@ print(cars_list[-2])
 print(cars_list[-3])
 # print(cars_list[-5])
 
+print(len(cars_list))
