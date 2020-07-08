@@ -27,3 +27,6 @@ print(len(cars_list))
 
 cars_list[3] = "Nissan Safari"
 print(cars_list)
+
+cars_list[2] = "GM Buick"
+print("New car at index 2 is: ", cars_list[2])
