@@ -19,3 +19,5 @@ print("Car at index 2:", cars_list[2])
 # print(cars_list[1, 2])
 
 print(cars_list[-1])
+print(cars_list[-2])
+print(cars_list[-3])
