@@ -30,3 +30,6 @@ print(cars_list)
 
 cars_list[2] = "GM Buick"
 print("New car at index 2 is: ", cars_list[2])
+
+
+cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
