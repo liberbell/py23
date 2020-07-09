@@ -28,3 +28,6 @@ print(index_num)
 
 complite_cars_list += ["Chervolet Cruez", "Chervolet Malibu"]
 print(complite_cars_list)
+
+complite_cars_list.reverse()
+print(complite_cars_list)
