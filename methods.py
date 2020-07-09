@@ -31,3 +31,6 @@ print(complite_cars_list)
 
 complite_cars_list.reverse()
 print(complite_cars_list)
+
+complite_cars_list.pop()
+print(complite_cars_list)
