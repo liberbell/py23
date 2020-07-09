@@ -25,3 +25,6 @@ print(complite_cars_list)
 print(complite_cars_list.index("Honda Civic"))
 index_num = complite_cars_list.index("GM Buick")
 print(index_num)
+
+complite_cars_list += ["Chervolet Cruez", "Chervolet Malibu"]
+print(complite_cars_list)
