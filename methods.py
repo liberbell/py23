@@ -21,3 +21,5 @@ cars_list2 = ["Bugatti Veyron", "Koenigesegg Agera R", "Henessey Venom GT"]
 
 complite_cars_list = cars_list + cars_list2
 print(complite_cars_list)
+
+print(complite_cars_list.index("Honda Civic"))
