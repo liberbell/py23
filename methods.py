@@ -47,4 +47,4 @@ print(complite_cars_list.count("Nissan Altima"))
 
 print(cars_list)
 cars_list.clear
-print(cars_list)
+print(cars_list.clear)
