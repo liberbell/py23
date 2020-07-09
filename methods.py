@@ -38,4 +38,4 @@ print(complite_cars_list)
 complite_cars_list.append("Nissan Altima")
 print(complite_cars_list)
 
-print(complite_cars_list.count)
+print(complite_cars_list.count("Honda Civic"))
