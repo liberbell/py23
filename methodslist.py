@@ -7,3 +7,8 @@ print(min(list_num))
 print(len(list_num))
 list_num.sort()
 print(list_num)
+
+list_num.append(25)
+print(list_num)
+
+sorted_list_num = sorted(list_num)
