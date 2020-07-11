@@ -61,3 +61,6 @@ print(another_car_list)
 
 another_car_list.remove("Henessey Venom GT")
 print(new_car_list)
+
+new_car_list.remove("Suzuki Alto")
+print(another_car_list)
