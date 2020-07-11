@@ -5,5 +5,5 @@ print(max(list_num))
 print(min(list_num))
 
 print(len(list_num))
-list_num.sort
+list_num.sort()
 print(list_num)
