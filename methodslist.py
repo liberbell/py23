@@ -12,3 +12,4 @@ list_num.append(25)
 print(list_num)
 
 sorted_list_num = sorted(list_num)
+print(sorted_list_num)
