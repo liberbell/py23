@@ -48,3 +48,7 @@ print(complite_cars_list.count("Nissan Altima"))
 print(cars_list)
 cars_list.clear
 print(cars_list.clear)
+
+new_car_list = complite_cars_list.copy()
+print(complite_cars_list)
+print(new_car_list)
