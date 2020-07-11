@@ -58,3 +58,6 @@ del(complite_cars_list)
 
 another_car_list = new_car_list
 print(another_car_list)
+
+another_car_list.remove("Henessey Venom GT")
+print(new_car_list)
