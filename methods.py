@@ -55,3 +55,6 @@ print(new_car_list)
 
 del(complite_cars_list)
 # print(comlite_cars_list)
+
+another_car_list = new_car_list
+print(another_car_list)
