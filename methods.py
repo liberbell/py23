@@ -52,3 +52,6 @@ print(cars_list.clear)
 new_car_list = complite_cars_list.copy()
 print(complite_cars_list)
 print(new_car_list)
+
+del(complite_cars_list)
+# print(comlite_cars_list)
