@@ -2,3 +2,6 @@ my_cars_list = ["Toyota Corolla", "Toyota Camry", "Nissan Altima", "Honda Accord
 print(my_cars_list)
 
 print(len(my_cars_list))
+print(my_cars_list[4])
+print(my_cars_list[5])
+print(my_cars_list[-2])
