@@ -26,3 +26,5 @@ print(all([1]))
 print(all([0, 1]))
 
 print(all(list_num))
+
+print(any(list_num))
