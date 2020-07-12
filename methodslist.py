@@ -17,3 +17,6 @@ print(list_num)
 print(sum(list_num))
 list_num *= 2
 print(list_num)
+
+list_num *= 2.0
+print(list_num)
