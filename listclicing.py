@@ -5,3 +5,5 @@ print(len(my_cars_list))
 print(my_cars_list[4])
 print(my_cars_list[5])
 print(my_cars_list[-2])
+
+print(my_cars_list[0:4])
