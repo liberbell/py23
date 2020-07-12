@@ -11,3 +11,6 @@ print(my_cars_list[0:6])
 
 print(my_cars_list[0:7])
 print(my_cars_list[7:])
+
+print(my_cars_list[3:6])
+print(my_cars_list[:3])
