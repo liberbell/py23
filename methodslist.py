@@ -22,3 +22,4 @@ print(list_num)
 # print(list_num)
 
 print(all([0]))
+print(all([1]))
