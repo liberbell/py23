@@ -1,1 +1,1 @@
-my_cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
+my_cars_list = ["Toyota Corolla", "Toyota Camry", "Nissan Altima", "Honda Accord", "Honda Civic", ]
