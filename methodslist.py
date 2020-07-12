@@ -14,3 +14,6 @@ print(list_num)
 sorted_list_num = sorted(list_num)
 print(sorted_list_num)
 print(list_num)
+print(sum(list_num))
+list_num *= 2
+print(list_num)
