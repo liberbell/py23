@@ -18,3 +18,4 @@ print(my_cars_list[:3])
 print(my_cars_list[0:-4])
 
 print(my_cars_list[0:5:])
+print(my_cars_list[::2])
