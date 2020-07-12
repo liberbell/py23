@@ -23,3 +23,6 @@ print(list_num)
 
 print(all([0]))
 print(all([1]))
+print(all([0, 1]))
+
+print(all(list_num))
