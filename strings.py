@@ -42,3 +42,5 @@ upper_place = place.upper()
 print(upper_place)
 
 print(upper_place.count("Y"))
+
+print(lower_place == upper_place)
