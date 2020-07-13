@@ -44,3 +44,6 @@ print(upper_place)
 print(upper_place.count("Y"))
 
 print(lower_place == upper_place)
+
+print(place.find("C"))
+print(place.find("York"))
