@@ -19,3 +19,6 @@ print(a, b, c, d, e)
 
 a, b, _, _, _ = x
 print(b)
+
+# print(input("How are you?: "))
+print(place(input("Where are you from?: ")))
