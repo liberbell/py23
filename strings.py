@@ -29,3 +29,5 @@ print(len(place))
 print(place[:9])
 
 print(place.startswith("N"))
+print(place.startswith("n"))
+print(place.endswith("y"))
