@@ -11,4 +11,4 @@ print(x[3])
 print(x)
 
 a, b, c, d, e = x
-print(x)
+print(a)
