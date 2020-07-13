@@ -34,3 +34,6 @@ print(place.endswith("y"))
 print(place.endswith("City"))
 
 print(place.count("y"))
+
+lower_place = place.lower()
+print(lower_place)
