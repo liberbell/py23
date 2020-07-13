@@ -32,3 +32,5 @@ print(place.startswith("N"))
 print(place.startswith("n"))
 print(place.endswith("y"))
 print(place.endswith("City"))
+
+print(place.count("y"))
