@@ -21,4 +21,6 @@ a, b, _, _, _ = x
 print(b)
 
 # print(input("How are you?: "))
-print(place(input("Where are you from?: ")))
+place = input("Where are you from?: ")
+print(place)
+print(len(place))
