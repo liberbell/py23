@@ -9,3 +9,6 @@ print(x[3])
 # print(x[6])
 # x[0] = "B"
 print(x)
+
+a, b, c, d, e = x
+print(x)
