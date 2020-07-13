@@ -13,3 +13,6 @@ print(x)
 a, b, c, d, e = x
 print(a)
 print(a, b, c, d, e)
+
+a, b, c, d = x
+print(x)
