@@ -24,3 +24,5 @@ print(b)
 place = input("Where are you from?: ")
 print(place)
 print(len(place))
+
+print(place[:9])
