@@ -37,3 +37,8 @@ print(place.count("y"))
 
 lower_place = place.lower()
 print(lower_place)
+
+upper_place = place.upper()
+print(upper_place)
+
+print(upper_place.count("Y"))
