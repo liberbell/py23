@@ -21,8 +21,11 @@ a, b, _, _, _ = x
 print(b)
 
 # print(input("How are you?: "))
-place = input("Where are you from?: ")
+# place = input("Where are you from?: ")
+place = "New York City"
 print(place)
 print(len(place))
 
 print(place[:9])
+
+print(place.startswith("N"))
