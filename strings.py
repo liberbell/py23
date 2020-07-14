@@ -59,5 +59,6 @@ split_space = place.split(" ")
 print(split_space)
 print(len(split_space))
 
+print(split_place)
 join_char = ","
-print(join_char.join(split_place))
+print(join_char.join(split_space))
