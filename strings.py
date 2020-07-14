@@ -54,3 +54,7 @@ print(place.find("c"))
 split_place = place.split("k")
 print(split_place)
 print(place.count(" "))
+
+split_space = place.split(" ")
+print(split_space)
+print(len(split_space))
