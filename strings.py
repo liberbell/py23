@@ -58,3 +58,6 @@ print(place.count(" "))
 split_space = place.split(" ")
 print(split_space)
 print(len(split_space))
+
+join_char = ","
+print(join_char.join(split_place))
