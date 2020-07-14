@@ -50,3 +50,6 @@ print(place.find("York"))
 print(place.index("Y"))
 # print(place.index("c"))
 print(place.find("c"))
+
+split_place = place.split("k")
+print(split_place)
