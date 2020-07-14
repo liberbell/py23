@@ -62,3 +62,7 @@ print(len(split_space))
 print(split_place)
 join_char = ","
 print(join_char.join(split_space))
+
+join_char1 = " "
+print(join_char1.join(split_space))
+print("|".join(split_space))
