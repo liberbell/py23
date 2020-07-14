@@ -47,3 +47,5 @@ print(lower_place == upper_place)
 
 print(place.find("C"))
 print(place.find("York"))
+print(place.index("Y"))
+print(place.index("e"))
