@@ -53,3 +53,4 @@ print(place.find("c"))
 
 split_place = place.split("k")
 print(split_place)
+print(place.count(" "))
