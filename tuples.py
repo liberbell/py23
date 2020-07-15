@@ -9,3 +9,5 @@ print(int_tuples)
 
 str_tuples = ("Hello", "World")
 print(str_tuples)
+
+print(int_tuples, str_tuples)
