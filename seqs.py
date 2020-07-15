@@ -4,3 +4,4 @@ print("Length is: ", length1)
 print(my_strings[0:length1])
 
 print(my_strings[0:6])
+print(my_strings[6:18])
