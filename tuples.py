@@ -11,3 +11,6 @@ str_tuples = ("Hello", "World")
 print(str_tuples)
 
 print(int_tuples, str_tuples)
+
+combine_tuples = int_tuples + str_tuples
+print(combine_tuples)
