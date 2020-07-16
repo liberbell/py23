@@ -21,3 +21,7 @@ mixed_tuple = (1, "Hello", 3.4)
 print(mixed_tuple)
 my_tuples = 1, "Hello", 3.4
 print(my_tuples)
+a, b, c = my_tuples
+print(a)
+print(b)
+print(c)
