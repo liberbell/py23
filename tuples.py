@@ -38,3 +38,6 @@ print(my_tuple[0])
 
 print(mixed_tuples[1])
 print(mixed_tuples[1][0])
+
+nested_tuple = mixed_tuples[2]
+print(nested_tuple)
