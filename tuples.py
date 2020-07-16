@@ -31,3 +31,7 @@ print(nested_tuple)
 
 mixed_tuples = ("mouse", [8, 4, 6], (1, 2, 3))
 print(mixed_tuples)
+
+my_tuple = ("P", "u", "r", "p", "l", "e")
+print(my_tuple)
+print(my_tuple[0])
