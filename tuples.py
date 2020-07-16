@@ -16,3 +16,6 @@ combine_tuples = int_tuples + str_tuples
 print(combine_tuples)
 
 print(str_tuples * 3)
+
+mixed_tuple = (1, "Hello", 3.4)
+print(mixed_tuple)
