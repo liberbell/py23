@@ -19,3 +19,5 @@ print(str_tuples * 3)
 
 mixed_tuple = (1, "Hello", 3.4)
 print(mixed_tuple)
+my_tuples = 1, "Hello", 3.4
+print(my_tuples)
