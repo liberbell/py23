@@ -35,3 +35,5 @@ print(mixed_tuples)
 my_tuple = ("P", "u", "r", "p", "l", "e")
 print(my_tuple)
 print(my_tuple[0])
+
+print(mixed_tuples[1])
