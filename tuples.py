@@ -28,3 +28,6 @@ print(c)
 
 nested_tuple = (1, 2, 3, (4, 5, 6))
 print(nested_tuple)
+
+mixed_tuples = ("mouse", [8, 4, 6], (1, 2, 3))
+print(mixed_tuples)
