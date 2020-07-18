@@ -34,3 +34,6 @@ print(result)
 tuple_x, tuple_y = zip(*result)
 print("Tuple x: ", tuple_x)
 print("Tuple y: ", tuple_y)
+
+list_a = [6, 7, 8, 9, 10]
+list_b = ["f", "g", "h", "i", "j"]
