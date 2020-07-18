@@ -37,3 +37,6 @@ print("Tuple y: ", tuple_y)
 
 list_a = [6, 7, 8, 9, 10]
 list_b = ["f", "g", "h", "i", "j"]
+
+zipped_list = zip(list_a, list_b)
+print(zipped_list)
