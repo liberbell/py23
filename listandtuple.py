@@ -40,3 +40,6 @@ list_b = ["f", "g", "h", "i", "j"]
 
 zipped_list = zip(list_a, list_b)
 print(zipped_list)
+
+result = list(zipped_list)
+print(result)
