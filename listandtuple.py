@@ -49,3 +49,5 @@ b = ("Manager", "Supervisor", "Engineer")
 x = zip(a, b)
 
 print(dict(x))
+
+numbers_list = [1, 2, 3]
