@@ -43,3 +43,6 @@ print(zipped_list)
 
 result = list(zipped_list)
 print(result)
+
+a = ("Jhon", "Charles", "Mike")
+b = ("Manager", "Supervisor", "Engineer")
