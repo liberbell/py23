@@ -19,5 +19,9 @@ print(my_tuple)
 
 # del(my_tuple[3])
 # print(my_tuple)
-del(my_tuple)
-print(my_tuple)
+# del(my_tuple)
+# print(my_tuple)
+
+tuple_a = (1, 2, 3, 4, 5)
+tuple_b = ("a", "b", "c", "d", "e")
+print(tuple_a + tuple_b)
