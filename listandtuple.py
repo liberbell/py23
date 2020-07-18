@@ -47,3 +47,5 @@ print(result)
 a = ("Jhon", "Charles", "Mike")
 b = ("Manager", "Supervisor", "Engineer")
 x = zip(a, b)
+
+print(dict(x))
