@@ -27,3 +27,6 @@ tuple_b = ("a", "b", "c", "d", "e")
 print(tuple_a + tuple_b)
 zipped = zip(tuple_a, tuple_b)
 print(zipped)
+
+result = tuple(zipped)
+print(result)
