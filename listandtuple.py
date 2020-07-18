@@ -55,3 +55,4 @@ str_list = ["one", "two", "three"]
 numbers_tuple = ("ONE", "TWO", "THREE", "FOUR")
 
 result = zip(numbers_list, numbers_tuple)
+print(result)
