@@ -32,3 +32,5 @@ result = tuple(zipped)
 print(result)
 
 tuple_x, tuple_y = zip(*result)
+print("Tuple x: ", tuple_x)
+print("Tuple y: ", tuple_y)
