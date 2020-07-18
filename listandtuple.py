@@ -13,3 +13,6 @@ print(immutable_tuple_2)
 immutable_tuple_3 = (4, 2, 3, [6, 5])
 immutable_tuple_3[3][0] = 7
 print(immutable_tuple_3)
+
+my_tuple = ("P", "y", "t", "h", "o", "n")
+print(my_tuple)
