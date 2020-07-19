@@ -59,3 +59,7 @@ print(result)
 
 result_set = set(result)
 print(result_set)
+
+result = zip(numbers_list, str_list, numbers_tuple)
+result_set = set(result)
+print(result_set)
