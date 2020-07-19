@@ -58,4 +58,4 @@ result = zip(numbers_list, numbers_tuple)
 print(result)
 
 result_set = set(result)
-print(result)
+print(result_set)
