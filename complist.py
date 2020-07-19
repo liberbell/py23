@@ -17,3 +17,7 @@ my_dictionary = {"a": 25,
                  "c": 20}
 print(type(my_dictionary))
 print(my_dictionary)
+
+a = {5, 2, 3, "1", 4, 4}
+print(a)
+print(type(a))
