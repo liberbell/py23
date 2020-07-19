@@ -11,3 +11,9 @@ print(type(num_t))
 
 print(num_t[1])
 print(type(num_t[1]))
+
+my_dictionary = {"a": 25,
+                 "b": 3.4,
+                 "c": 20}
+print(type(my_dictionary))
+print(my_dictionary)
